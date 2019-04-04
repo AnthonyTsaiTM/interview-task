@@ -9,6 +9,8 @@
 <h3>Task Objective</h3>
 
   Implement 'auto complete' functionality based on the jsonform element.
+  
+  We would like to see efficient code implementation and clean code structure.
 
 <h3>How it should work</h3>
 
